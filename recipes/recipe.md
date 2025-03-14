@@ -1,6 +1,9 @@
 # Smoky Pulled Pork Sandwiches
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> myrecipe
 ## Ingredients
 For the dry rub:
 - 1 tablespoon brown sugar
@@ -27,7 +30,10 @@ For the pulled pork:
 - 1 teaspoon onion powder
 - Salt and pepper to taste
 
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> myrecipe
 ![alt text](recipes/image.png)
 
 ## Ingredients
@@ -56,6 +62,9 @@ For the pulled pork:
 - 1 teaspoon onion powder
 - Salt and pepper to taste
 
+<<<<<<< HEAD
+>>>>>>> myrecipe
+=======
 >>>>>>> myrecipe
 For serving:
 - Hamburger buns or sandwich rolls
