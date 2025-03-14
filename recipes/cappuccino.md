@@ -14,4 +14,4 @@
 5. **Dust** with cocoa powder or cinnamon if desired
 6. *Serve immediately*
 
-![Cappuccino](coffee.jpeg)
+![Cappuccino](recipes/coffee.jpeg)
