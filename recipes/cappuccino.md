@@ -13,3 +13,5 @@
 4. *Spoon* the milk foam on top to create a dome
 5. **Dust** with cocoa powder or cinnamon if desired
 6. *Serve immediately*
+
+![Cappuccino](coffee.jpeg)
