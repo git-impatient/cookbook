@@ -2,3 +2,4 @@
 This line is fun line.
 I am editing this through github
 This repository contain an example recipe for 2025 GIT class at [IPGP](https://www.ipgp.fr/en/)
+This is funny gif 
