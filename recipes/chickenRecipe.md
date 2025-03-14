@@ -1,5 +1,7 @@
 # CHICKEN IN A PEANUT SAUCE
 
+Here we go:
+
 ![Chicken](https://www.foodista.com/sites/default/files/styles/recype/public/EC_pukFace.jpg)
 ---------------------------------------
 ## INGREDIENT
