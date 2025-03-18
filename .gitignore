@@ -3,3 +3,5 @@
 .idea
 # Temporary files
 .swp
+# macOS files
+.DS_Store
