@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 # Ignore special files
 .DS_Store
 
+=======
+.vscode
+>>>>>>> bbceea4 (Ignore .vscode)
