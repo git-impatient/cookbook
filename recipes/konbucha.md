@@ -1,5 +1,5 @@
 # How to make kombutcha
-![kombutcha-image](/recipes/images.jpeg)
+![kombutcha-image](recipes/konbucha.jpeg)
 
 ## starting from commercial one
 
