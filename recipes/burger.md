@@ -26,7 +26,7 @@ For the pulled pork:
 - 1 teaspoon onion powder
 - Salt and pepper to taste
 
-![alt text](recipes/image.png)
+![alt text](recipes/burger.png)
 
 ## Ingredients
 For the dry rub:
