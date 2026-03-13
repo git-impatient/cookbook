@@ -20,3 +20,5 @@ Line a baking sheet with parchment paper and spoon the mixture on it at an even 
 
 ###4
 Place the meringues on a plate and dust with cocoa powder before serving.
+
+![](https://i.redd.it/vl8cx7m0trxc1.jpeg)
