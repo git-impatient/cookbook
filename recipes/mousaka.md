@@ -1,6 +1,6 @@
 # Mousaka recipe
 
-![Image](/home/mollova/cookbook/recipes/mousaka.png)
+![Image](mousaka.png)
 
 ## You will need the following ingredients:
 - Bechamel Sauce
