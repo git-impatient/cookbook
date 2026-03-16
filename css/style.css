@@ -68,6 +68,53 @@ p{
     -webkit-transition: all .7s;
     transition: all .7s;
 }
+
+/* Collapsible column body */
+.column-body {
+    max-height: 550px;
+    overflow: hidden;
+    position: relative;
+    -webkit-transition: max-height 0.7s ease;
+    transition: max-height 0.7s ease;
+}
+
+.column-body.expanded {
+    max-height: 3000px;
+}
+
+.column-body:not(.expanded)::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    background: -webkit-linear-gradient(transparent, #d7f1e2f5);
+    background: linear-gradient(transparent, #d7f1e2f5);
+    pointer-events: none;
+}
+
+.expand-btn {
+    display: block;
+    width: 100%;
+    margin-top: 6px;
+    padding: 6px 0;
+    background: transparent;
+    border: 1px solid #2f2f2f;
+    border-radius: 2px;
+    cursor: pointer;
+    font-family: 'Architects Daughter', serif;
+    font-size: 14px;
+    color: #2f2f2f;
+    text-align: center;
+    -webkit-transition: background 0.2s, color 0.2s;
+    transition: background 0.2s, color 0.2s;
+}
+
+.expand-btn:hover {
+    background: #2f2f2f;
+    color: #d7f1e2f5;
+}
 .column + .column {
   border-left: 1px solid #2f2f2f;
 }
