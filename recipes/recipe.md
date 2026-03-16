@@ -2,6 +2,7 @@
 
 *Source: [Foodista](https://www.foodista.com/recipe/QKQ5DZVV/gnocchi-alla-romana)*
 
+![image](recipes/gnocchi-alla-romana.jpg)
 
 
 ## Ingredients
