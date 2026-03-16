@@ -1,6 +1,6 @@
 # Mousaka recipe
 
-![Image](mousaka.png)
+![Image](recipes/mousaka.png)
 
 ## You will need the following ingredients:
 - Bechamel Sauce
