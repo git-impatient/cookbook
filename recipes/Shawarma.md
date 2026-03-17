@@ -16,7 +16,7 @@ This meal will easily become a family favorite.
 **Chicken Shawarma
 Recipe Submitted to Foodista**
 
-![image de shawarma](../image_shawarma.jpg)
+![image de shawarma](./image_shawarma.jpg)
 [Source](https://www.themediterraneandish.com/chicken-shawarma-recipe/)
 
 ## Recipe core
