@@ -25,12 +25,18 @@ const converter = new showdown.Converter({
 
 function include(filename, id) {
     $.get(filename, function(response) {
-        var text = response;
-        var html = converter.makeHtml(text);
-        var currentScript = $("script").last();
-        // var div = currentScript.parent("div");
-        var div = $("#" + id);
-        div.html(html);
-        // div.html(escapeHtml(html));
+        var html = converter.makeHtml(response);
+        var column = $("#" + id).closest('.column');
+        $("#" + id).html(html);
+        if (!column.find('.column-body').length) {
+            $("#" + id).wrap('<div class="column-body"></div>');
+            column.append('<button class="expand-btn" onclick="toggleColumn(this)">Read more \u25bc</button>');
+        }
     });
+}
+
+function toggleColumn(btn) {
+    var body = btn.previousElementSibling;
+    body.classList.toggle('expanded');
+    btn.textContent = body.classList.contains('expanded') ? 'Read less \u25b2' : 'Read more \u25bc';
 }
